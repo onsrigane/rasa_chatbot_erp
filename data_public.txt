@@ -1,0 +1,65 @@
+Section: À propos de nous
+- Nous sommes un éditeur Tunisien de logiciels de gestion  ERP, CRM, BPM  et de solutions métiers en  SaaS  et/ou en  On-premise.
+  Bold Items:
+    - ERP, CRM, BPM
+    - solutions métiers
+    - SaaS
+    - On-premise
+- Acteur de la  transformation numérique  pour les PME, nous accompagnons les entreprises dans leur évolution en leur offrant des solutions sur mesure et innovantes.
+  Bold Items:
+    - transformation numérique
+- Nous avons décidé de faire du gain de temps notre engagement principal. Pourquoi ?Parce qu’aujourd’hui, nous sommes convaincus que c’est l’élément dont les gens manque le plus ... nous courons tous après tout, nous sommes tous surbookés...
+- A l’écoute permanente du terrain, des nouvelles technologies disponibles, nous travaillons jour après jour, pour proposer au marché les produits les plus innovants et adaptés.
+- Innover, tout en capitalisant sur notre savoir-faire, progresser sans déstabiliser. C’est tout cela  Lynx-ERP
+- Notre ambition : offrir du temps, de la simplicité et du plaisir d’utilisation.
+
+Section: MODULES
+ Notre Solution Lynx-ERP  propose une gamme complète de modules couvrant divers aspects tels que :
+Modules:
+- la gestion des relations clients (CRM)
+- la gestion des workflows (BPM)
+- la gestion commerciale
+- la comptabilité et la finance
+- la gestion des stocks
+- la gestion de production
+- ainsi que la maintenance et les laboratoires.
+
+Section: Avantages de Lynx-ERP
+Advantage: Rassemblez les données
+Notre solution vous permet d'obtenir une vue d'ensemble complète de votre entreprise en connectant et en accédant à toutes vos données. Simplifiez votre prise de décision et optimisez vos processus grâce à une plateforme intuitive et puissante.
+Advantage: Augmentation de la productivité
+Collaborez et soyez plus productif en partageant des informations et des informations dans les outils avec lesquels vous travaillez.
+Advantage: Adaptez-vous à la suite
+Modifiez rapidement les processus pour répondre à l'évolution des besoins en associant notre générateur de Workflow BPM.
+Advantage: Solutions analytiques complètes
+Utilisez Power BI et notre outil d'analyse avancée pour des tableaux de bord dynamiques et des insights personnalisés. Intégrez facilement Power BI et bénéficiez d'analyses approfondies adaptées à vos besoins.
+Advantage: Solutions de Formation Complètes
+Optimisez les compétences de votre équipe avec nos formations sur mesure pour notre logiciel. Profitez d'une utilisation efficace grâce à des sessions pratiques et des conseils d'experts.
+Advantage: Accédez à notre API ERP
+Louez notre API ERP et accédez instantanément à des fonctionnalités puissantes pour gérer vos opérations commerciales. Intégrez facilement notre API dans votre système existant pour optimiser vos processus, améliorer la productivité, et prendre des décisions éclairées en temps réel.
+
+Section: Lynx-ERP Solution
+- Lynx-ERP représente une solution innovante conçue pour les PME/ETI en quête d'une transformation numérique efficace. Avec la possibilité de choisir entre une version sur site (On-premise) ou une version Cloud (SAAS), les entreprises auront la flexibilité nécessaire pour s'adapter à leurs infrastructures et besoins spécifiques.
+- En choisissant Lynx-ERP, les entreprises pourront surmonter les défis liés à la transformation numérique, améliorer leur efficacité opérationnelle et renforcer leur compétitivité sur le marché local et international.
+- Avec une approche personnalisée et un support continu, Lynx-ERP s'engage à accompagner les entreprises dans leur évolution digitale, en fournissant des solutions sur mesure pour répondre à leurs besoins en constante évolution.
+
+Section: Contact
+Title: Faisons Connaissance
+Subtitle: Appeler le service commercial
+Availability: Disponible du lundi au vendredi de 9 h à 18 h
+Contacts:
+- Tél. : +216 74 65 30 70
+- Fax. : +216 74 65 30 70
+- Mobile : +216 55 00 11 00
+Email:
+Card Title: Envoyer un e-mail
+Card Subtitle: Nous répondons rapidement à toutes vos questions.
+Card Items: 
+- E-mail: hello@lynx-erp.tn
+
+Section: Localisation
+Place Name: Pépinière d'entreprises
+Address: RQP3+9M9, Express Rocade Nr 11, Sakiet Ezzit 3021
+Map URL: https://www.google.com/maps/place/P%C3%A9pini%C3%A8re+d'entreprises/@34.835914,10.754237,19z/data=!4m6!3m5!1s0x1301d178035906ab:0x16623f57fb73f056!8m2!3d34.8359141!4d10.7542366!16s%2Fg%2F11b742559b?hl=en&entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D
+Description: Située à 10 km de la route de Tunis
+
